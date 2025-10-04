@@ -6,7 +6,7 @@ Use multiple ESP-32 controllers to send data to a single base station using both
 - This is mostly for debugging, as I was lazy to check on the serial monitor when its constantly getting updated
 - it is possible to receive both requests from the wifi and esp-now for the data
 
-### Design constraints and considerations
+### Additional info
 - I assumed that all the memory and processing power bandwidth is used for the wireless transmission
 - So far the program has only been proven to work with 3 ESP32 Wrooms
   - Even though it can theoratically support 20 devices

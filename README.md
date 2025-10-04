@@ -18,7 +18,7 @@ Use multiple ESP-32 controllers to send data to a single base station using both
 - Minimum 3 ESP32 Wroom
 - Router/Hotspot
 (Sort of optional)
-- 1 resistor under 2k
+- 1 resistor under 2k (so the LEDs are brighter and more noticable)
 - 2 LED
 
 <br>

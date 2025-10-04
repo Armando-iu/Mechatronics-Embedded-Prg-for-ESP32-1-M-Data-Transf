@@ -1,4 +1,4 @@
-![IMG_1555](https://github.com/user-attachments/assets/33c6f5bb-9faf-4cca-a12d-c5ad0d3a43bf)# Mechatronics 25: Embedded-Prg-for-ESP32-1-M-Data-Transf
+Mechatronics 25: Embedded-Prg-for-ESP32-1-M-Data-Transf
 
 Jist of the assignment:
 
